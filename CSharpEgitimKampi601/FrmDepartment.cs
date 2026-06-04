@@ -16,5 +16,10 @@ namespace CSharpEgitimKampi601
         {
             InitializeComponent();
         }
+
+        private void FrmDepartment_Load(object sender, EventArgs e)
+        {
+            //Kodlar daha sonra eklenicek.
+        }
     }
 }
